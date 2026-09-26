@@ -70,7 +70,6 @@ Essas mudanças ajudaram a deixar o código mais organizado e mais fácil de aco
 ## Tecnologias
 
 - Python
-- Terminal
 - Biblioteca `os`
 
 ## Curso
