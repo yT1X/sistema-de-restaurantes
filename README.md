@@ -84,9 +84,14 @@ Durante o curso, fui aprendendo os conceitos e aplicando eles diretamente no pro
 **Carga horária:** 8 horas  
 **Conclusão:** 26 de setembro de 2026
 
-### Certificado
+<details>
+<summary>Ver certificado</summary>
 
-[Ver certificado na Alura](https://cursos.alura.com.br/certificate/4f156078-8263-4855-a6ea-082faa49654c)
+<br>
+
+<img src="./Certificado%20-%20Rafael%20Machado%20Fiais%20-%20Alura.jpeg" alt="Certificado Python - Alura" width="600">
+
+</details>
 
 ## Objetivo
 
